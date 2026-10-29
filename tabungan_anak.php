@@ -14,7 +14,7 @@ function tabungan_anak($bulan){
             Bonus yang didapatkan: $bonus<br><br>";
         }
         else{
-            echo "<b>Tabungan Bulan ke-$i</b><br>
+            echo "<b>Tabungan Bulan ke-$i:</b><br>
             Saldo(sudah termasuk bonus): $saldo<br>
             Bonus yang didapatkan: $bonus<br><br>";
         }
